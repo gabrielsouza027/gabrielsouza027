@@ -5,11 +5,7 @@
   <a href="https://github.com/gabrielsouza027">
 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=gabrielsouza027&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza027&layout=compact&langs_count=7&theme=dracula" />
     </div>
   
   
-  
-  
-  
-  
+  ##Tenho 16 anos
